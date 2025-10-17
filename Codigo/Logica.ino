@@ -13,7 +13,6 @@ int motorB = 3;
 int servoPin = 9;
 
 Servo dirrecion;
-direccion_servo =dirrecion;
 //Variables de los leds como indicador de dirrecionales:
 
 int led_izquierda =7;
