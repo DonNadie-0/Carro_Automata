@@ -3,5 +3,5 @@ En base a los conocimientos básicos aprendidos en la materia de autómatas de l
 
 Se realizo un Carro autómata en el  que tiene  los componentes mencionados, y donde su finalidad es poder pasar por una serie de obstáculos de manera exitosa.
 
-### [Objetivos del Proyecto](Objetivos del Proyecto):
+### [[Objetivos_del_Proyecto:]]
 Buscar cumplir con los requerimientos técnicos, y logísticos implementando metodologías y sistemas, para poder llevar a cabo un resultado exitoso y documentado. además de servir como material de estudio para la materia 
