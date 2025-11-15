@@ -31,7 +31,7 @@ El carro funciona en sinergia de los componentes electrónicos mencionados en ==
 ___
 
 ## resultados:
-![alt text](imagenservo.jpg)
+
 ___
 
 ## Créditos:
